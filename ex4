@@ -1,0 +1,4 @@
+ex4.3.4.sql
+
+
+SELECT * FROM personnel; 

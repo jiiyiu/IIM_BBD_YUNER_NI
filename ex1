@@ -1,0 +1,16 @@
+ex4.3.1.sql
+
+
+INSERT INTO personnel (Nom, Prenom, Nom_qualification, Nom_departement)
+ VALUES
+( 'albert', 'alcain', 'expert web', 'web' ),
+('allain', 'ribert', 'expert web', 'web' ),
+('cherif', 'verier', 'expert web', 'web' ),
+('chantille', 'cain', 'expert web', 'web' ),
+('miriam','mcdowel', 'expert web', 'web'),
+('julie', 'duchant', 'expert web', 'web' ),
+('marie', 'ravie', 'expert web', 'web'),
+('louis', 'riand', 'expert web', 'web' ),
+('cristel', 'conser', 'expert web', 'web' ),
+('bob', 'lenone', 'expert web', 'web' ),
+('Dupont', 'Jean', 'expert web', 'web' );

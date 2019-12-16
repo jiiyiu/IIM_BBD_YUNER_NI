@@ -1,0 +1,4 @@
+ex4.3.3.sql
+
+DELETE FROM pesonnel
+WHERE ID = 11;

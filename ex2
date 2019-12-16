@@ -1,0 +1,3 @@
+ex4.3.2 .sql
+
+UPDATE personnel SET Nom= 'Anquez' WHERE ID =11 ;
